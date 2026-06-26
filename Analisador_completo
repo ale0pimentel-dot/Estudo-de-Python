@@ -2,7 +2,7 @@
 
 Programa desenvolvido em Python que coleta informações de quatro pessoas e realiza uma análise estatística simples do grupo.
 
-## 📋 Descrição
+ 📋 Descrição
 
 O programa solicita o nome, a idade e o sexo de quatro pessoas. Ao final, exibe informações calculadas a partir dos dados informados.
 
@@ -12,7 +12,7 @@ As análises realizadas incluem:
 * Nome e idade do homem mais velho;
 * Quantidade de mulheres com menos de 20 anos.
 
-## 🚀 Funcionalidades
+ 🚀 Funcionalidades
 
 * Cadastro de quatro pessoas.
 * Cálculo da média de idade.
@@ -20,11 +20,11 @@ As análises realizadas incluem:
 * Contagem de mulheres com menos de 20 anos.
 * Exibição organizada dos resultados.
 
-## 🛠️ Tecnologias utilizadas
+ 🛠️ Tecnologias utilizadas
 
 * Python 3
 
-## ▶️ Como executar
+ ▶️ Como executar
 
 1. Clone este repositório.
 2. Execute o arquivo principal:
@@ -35,7 +35,7 @@ python Analisador_completo.py
 
 3. Informe os dados solicitados para cada pessoa.
 
-## 📚 Conceitos praticados
+ 📚 Conceitos praticados
 
 * Estrutura de repetição (`for`)
 * Estruturas condicionais (`if`)
@@ -46,7 +46,7 @@ python Analisador_completo.py
 * Cálculo de média
 * Lógica de programação
 
-## 💡 Possíveis melhorias
+ 💡 Possíveis melhorias
 
 * [ ] Validar a entrada do sexo (`M` ou `F`).
 * [ ] Permitir analisar grupos com qualquer quantidade de pessoas.
